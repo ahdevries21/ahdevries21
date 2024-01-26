@@ -12,7 +12,13 @@ My name is Abigail DeVries, a designer, artist, and developer. Art and design ar
 - ⚡ Fun fact: Currently, I am reading the Neptune Project by Polly Holyoke 10/10. I recommend it!
 
 ## Gallary
-/![20220201_204004](https://github.com/ahdevries21/ahdevries21/assets/145778459/99e9efe7-c347-42cc-a80e-efbbf425c97d)/ ![20221025_111945](https://github.com/ahdevries21/ahdevries21/assets/145778459/ce061dcf-4ebc-4882-8e7e-c3c1bd3a866b)/ 
+
+|  ![SK-9](https://github.com/ahdevries21/ahdevries21/assets/145778459/f5a66978-a7bd-4e43-ba91-4afdcad9016e) | ![Tables Assignment](https://github.com/ahdevries21/ahdevries21/assets/145778459/79049c05-5551-4b47-88ac-c9266d125c4f) |
+| ---------- | ---------- | 
+| ![The20Project20Cover](https://github.com/ahdevries21/ahdevries21/assets/145778459/1169af8e-217d-4cac-a76e-7441ed500a3d)| ![Midterm-screencap- part 3](https://github.com/ahdevries21/ahdevries21/assets/145778459/728433f2-e750-447f-95e1-07f6d2d7c02b) |
+| ![Charcoal Drawing](https://github.com/ahdevries21/ahdevries21/assets/145778459/99e9efe7-c347-42cc-a80e-efbbf425c97d)  |  ![Beach Painting](https://github.com/ahdevries21/ahdevries21/assets/145778459/ce061dcf-4ebc-4882-8e7e-c3c1bd3a866b)  |
+|  ![The Three Moods of a Web Designer Comic](https://github.com/ahdevries21/ahdevries21/assets/145778459/34f76d5f-ee62-4e16-b4a9-983ffcff79e0) | ![20211209_130144](https://github.com/ahdevries21/ahdevries21/assets/145778459/4569938b-f76b-4c7a-94dc-307514e3f982) | 
+| ![20220329_212723](https://github.com/ahdevries21/ahdevries21/assets/145778459/261c80df-b91c-4578-99ca-09bed7f30df5) | ![Untitled - ‎March‎ ‎25‎, ‎2023 ‎15‎ ‎35‎ ‎48](https://github.com/ahdevries21/ahdevries21/assets/145778459/23fe3043-724f-4374-94a6-cdcb49e5a8bf)| 
 
 ## Find me on
 💻My portfolio: [https://ahdevries36.wixsite.com/adevires-portfolio]
