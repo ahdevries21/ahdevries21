@@ -1,5 +1,7 @@
+
+![Header](https://github.com/ahdevries21/ahdevries21/assets/145778459/24bdf054-b18a-48d6-a52d-1d0d2808443a)
+
 # Hi there 👋
-## Bio
 
 My name is Abigail DeVries, a designer, artist, and developer. Art and design are a strong passion of mine, going back to when I was a child. I specialize in graphic design, but I also do web design and development as well. Coding is enjoyable and exciting, as I am learning the visual and technical aspects of web design. As an artist, drawing is my favorite medium, but I also do charcoal. I want to remember to do pastel drawing and painting as well.
 
